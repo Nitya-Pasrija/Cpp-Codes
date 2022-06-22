@@ -1,3 +1,6 @@
+// Output Format
+// Print "Hello World" to stdout.
+
 #include <iostream>
 #include <cstdio>
 using namespace std;
