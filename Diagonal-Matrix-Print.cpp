@@ -22,3 +22,5 @@ vector<int> findDiagonalOrder(vector<vector<int>>& matrix) {
         
         return res;
     }
+
+    /* diagonally prints the elements*/
